@@ -495,7 +495,6 @@
 * [Foundations of Cryptography](https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2) - NPTEL  Indian Institute of Science, Bengaluru
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
-* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
 ### Cuda
@@ -1233,6 +1232,7 @@
 ### Kotlin
 
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) (Udacity)
+* [Android Development Full Tutorial 2023 \| Kotlin](https://www.youtube.com/watch?v=9-pFPGAOSZQ) - Scaler
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha
 * [Android with kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Smartherd
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
